@@ -1,6 +1,6 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-# The official Murang'a Seals Football Club Website
+# The official Murang'a Seals Fan Collection Football Data
 
 >This is the official Murang'a Seals loyalty points built with Ruby on Rails. This is built for fans and for fans benefit
 
