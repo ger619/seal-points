@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_number: MyString
+  first_name: MyString
+  middle_name: MyString
+  sir_name: MyString
+  date_of_birth: 2024-07-22
+  gender: MyString
+  country: MyString
+  county: MyString
+
+two:
+  id_number: MyString
+  first_name: MyString
+  middle_name: MyString
+  sir_name: MyString
+  date_of_birth: 2024-07-22
+  gender: MyString
+  country: MyString
+  county: MyString

@@ -1,0 +1,38 @@
+<div id="<%= dom_id seal %>">
+    <tbody>
+    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+      <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+        <%= link_to seal.id_number, edit_seal_path(seal) %>
+      </th>
+      <td class="px-6 py-4">
+        <%= link_to seal.first_name, edit_seal_path(seal) %>
+      </td>
+      <td class="px-6 py-4">
+        <%= seal.middle_name %>
+      </td>
+      <td class="px-6 py-4">
+        <%= seal.sir_name %>
+      </td>
+      <td class="px-6 py-4">
+        <%= seal.date_of_birth %>
+      </td>
+      <td class="px-6 py-4">
+        <%= seal.phone_number %>
+      </td>
+      <td class="px-6 py-4">
+      <%= seal.email %>
+      </td>
+      <td class="px-6 py-4">
+        EDIT/DELETE
+      </td>
+    </tr>
+    </tbody>
+
+</div>
+
+
+
+
+
+
+
